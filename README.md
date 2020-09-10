@@ -2,10 +2,10 @@
 
 ## Instructions
 
-For this lab, you will need to open `lab1.ipynb` in a Jupyterlab session and follow the instructions within. 
+For this lab, you will need to open `lab1.ipynb` in a Jupyterlab session and follow the instructions within.
 
 ## Feedback on this Lab
 
-**How many hours did you spend on this lab?** [Replace this text with a float] hours.
+**How many hours did you spend on this lab?** ~2 hours.
 
-**Comments**: What did you learn in this lab? This answer is not graded and is for course improvement purposes.
+**Comments**: I learned how to write Python programs that prompt user input, something I didn't have prior experience implementing.
